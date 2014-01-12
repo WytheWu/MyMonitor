@@ -1,0 +1,29 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="689" measuredH="471" mockupW="500" mockupH="351">
+  <controls>
+    <control controlID="5" controlTypeID="__group__" x="189" y="120" w="500" h="351" measuredW="500" measuredH="351" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="500" h="351" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="5"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::SubTitle" x="191" y="78" w="-1" h="-1" measuredW="96" measuredH="27" zOrder="1" locked="false" isInGroup="5">
+          <controlProperties>
+            <text>%u6DFB%u52A0%u7269%u54C1</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="111" y="215" w="101" h="49" measuredW="74" measuredH="27" zOrder="2" locked="false" isInGroup="5">
+          <controlProperties>
+            <text>%u68C0%u67E5%u94FE%u63A5</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="268" y="215" w="107" h="48" measuredW="74" measuredH="27" zOrder="3" locked="false" isInGroup="5">
+          <controlProperties>
+            <text>%u786E%u8BA4%u6DFB%u52A0</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="41" y="149" w="-1" h="-1" measuredW="418" measuredH="27" zOrder="4" locked="false" isInGroup="5">
+          <controlProperties>
+            <text>http%3A//www.steammarkert.com/askdasd%3F%3Dasdasdxz%26af%3DAsdasdasd</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

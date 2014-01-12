@@ -1,0 +1,53 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="569" measuredH="434" mockupW="400" mockupH="280">
+  <controls>
+    <control controlID="14" controlTypeID="__group__" x="169" y="154" w="400" h="280" measuredW="400" measuredH="280" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="400" h="280" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="14"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::HelpButton" x="354" y="6" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="1" locked="false" isInGroup="14"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="63" y="193" w="84" h="23" measuredW="72" measuredH="22" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>%u81EA%u52A8%u767B%u9646</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Link" x="302" y="116" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="3" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>%u6CE8%u518C%u8D26%u53F7</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="302" y="161" w="-1" h="-1" measuredW="52" measuredH="19" zOrder="4" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>%u627E%u56DE%u5BC6%u7801</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="162" y="193" w="77" h="22" measuredW="72" measuredH="22" zOrder="5" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>%u5F00%u673A%u542F%u52A8</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="63" y="111" w="200" h="-1" measuredW="98" measuredH="24" zOrder="6" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>309065471</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="63" y="153" w="201" h="-1" measuredW="69" measuredH="27" zOrder="7" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>*********</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="221" w="396" h="-1" measuredW="100" measuredH="10" zOrder="8" locked="false" isInGroup="14"/>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="133" y="231" w="125" h="37" measuredW="80" measuredH="27" zOrder="9" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>%u767B%20%20%20%20%20%20%20%20%u5F55</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="91" w="400" h="-1" measuredW="100" measuredH="10" zOrder="10" locked="false" isInGroup="14"/>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Title" x="69" y="34" w="-1" h="-1" measuredW="267" measuredH="43" zOrder="11" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Steam%20Monitor</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::RedX" x="376" y="6" w="16" h="18" measuredW="240" measuredH="104" zOrder="12" locked="false" isInGroup="14"/>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
